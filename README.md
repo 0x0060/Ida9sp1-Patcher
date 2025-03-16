@@ -46,7 +46,7 @@ IDA Pro 9 SP1 Patcher is a utility designed to generate license files for IDA Pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Ida9sp1-Patcher.git
+git clone https://github.com/0x0060/Ida9sp1-Patcher.git
 cd Ida9sp1-Patcher
 ```
 
